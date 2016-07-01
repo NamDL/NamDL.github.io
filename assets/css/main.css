@@ -2047,7 +2047,7 @@
 		ol li {
 			padding-left: 0.25em;
 		}
-
+	
 	ul {
 		list-style: disc;
 		margin: 0 0 2.25em 0;
@@ -2073,6 +2073,8 @@
 					padding-top: 0;
 				}
 
+				
+		
 		ul.feature-icons {
 			list-style: none;
 			padding-left: 0;
@@ -2092,6 +2094,17 @@
 				text-decoration: none;
 				display: inline-block;
 				font-size: 2.0em;
+				margin: 0.35em 0 1.6875em 0;
+				padding: 0.35em 0 0 3.5em;
+				position: relative;
+				vertical-align: top;
+				width: 100%;
+			}
+			
+			ul.feature-icons .projectFormat {
+				text-decoration: none;
+				display: inline-block;
+				font-size: 1.5em;
 				margin: 0.35em 0 1.6875em 0;
 				padding: 0.35em 0 0 3.5em;
 				position: relative;
